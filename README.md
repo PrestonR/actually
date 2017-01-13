@@ -1,5 +1,6 @@
 # Actually
 _The only npm library that is actually, with reasons._
+
 ## Table of Contents
 - [Install](#install)
 - [Introduction](#introduction)
