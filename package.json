@@ -1,6 +1,6 @@
 {
   "name": "actually",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Actually - the only npm library that is actually, with reasons.",
   "main": "index.js",
   "repository": {
