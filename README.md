@@ -6,6 +6,7 @@ _The only npm library that is actually, with reasons._
 - [Introduction](#introduction)
 - [Options](#options)
 - [Tests](#tests)
+- [Contributors](#contributors)
 
 ## [Install](#install)
 ```
@@ -20,3 +21,7 @@ You don't need options. Because reasons.
 
 ## [Tests](#tests)
 We tested it. It works, actually.
+
+## [Contributors](#contributors)
+- [PrestonR](https://www.npmjs.com/~presenbeck)
+- [Alex Gian](https://www.npmjs.com/~alexgian)
