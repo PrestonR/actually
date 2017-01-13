@@ -1,0 +1,20 @@
+{
+  "name": "actually",
+  "version": "1.0.0",
+  "description": "Actually - the only npm library that is actually, with reasons.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrestonR/actually.git"
+  },
+  "keywords": [
+    "actually",
+    "reasons"
+  ],
+  "author": "PrestonR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrestonR/actually/issues"
+  },
+  "homepage": "https://github.com/PrestonR/actually#readme"
+}
