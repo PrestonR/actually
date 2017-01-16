@@ -1,6 +1,6 @@
 {
   "name": "actually",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Actually - the only npm library that is actually, with reasons.",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,7 @@
     "actually",
     "reasons"
   ],
-  "author": "PrestonR",
+  "author": "PrestonR, Dave Sargent, Alex Gian",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PrestonR/actually/issues"
