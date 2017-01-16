@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/PrestonR/actually/issues"
   },
-  "homepage": "https://github.com/PrestonR/actually#readme"
+  "homepage": "https://github.com/PrestonR/actually#readme",
+  "dependencies": {
+    "global": "^4.3.1",
+    "typescript": "^2.1.5"
+},
+    "scripts":{
+        "build": "tsc --module umd ./src/index.ts --outDir ./dist/"
+    }
 }

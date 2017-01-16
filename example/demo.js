@@ -1,6 +1,6 @@
 `use strict`;
 
-let actually = require('../');
+let actually = require('../dist');
 
 let reason = actually.isActually(true);
 
