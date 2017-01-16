@@ -4,6 +4,7 @@ _The only npm library that is actually, with reasons._
 ## Table of Contents
 - [Install](#install)
 - [Introduction](#introduction)
+- [Usage](#usage)
 - [Options](#options)
 - [Tests](#tests)
 - [Contributors](#contributors)
@@ -16,6 +17,16 @@ $ npm install actually
 ## [Introduction](#introduction)
 This library was created because reasons. For reasons, I cannot disclose the contributors. But thank you, actually.
 
+## [Usage](#usage)
+```
+    `use strict`;
+
+    let actually = require('actually');
+
+    let reason = actually.isActually(true);
+
+    console.log('How to actually because reasons:', reason);
+```
 ## [Options](#options)
 You don't need options. Because reasons.
 
