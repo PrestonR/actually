@@ -34,6 +34,6 @@ You don't need options. Because reasons.
 We tested it. It works, actually.
 
 ## [Contributors](#contributors)
-- [Dave Sargent](https://www.github.com/dspint) (Lead)
+- [Dave Sargent](https://github.com/davidsargent) (Lead)
 - [PrestonR](https://www.npmjs.com/~presenbeck)
 - [Alex Gian](https://www.npmjs.com/~alexgian)
