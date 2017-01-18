@@ -33,7 +33,12 @@ You don't need options. Because reasons.
 ## [Tests](#tests)
 We tested it. It works, actually.
 
+```
+mocha test/unit/test-actually.spec.js
+```
+
 ## [Contributors](#contributors)
 - [Dave Sargent](https://github.com/davidsargent) (Lead)
 - [PrestonR](https://www.npmjs.com/~presenbeck)
 - [Alex Gian](https://www.npmjs.com/~alexgian)
+- [Niklas Sletteland](https://github.com/niklassletteland)

@@ -20,8 +20,12 @@
   "dependencies": {
     "global": "^4.3.1",
     "typescript": "^2.1.5"
-},
-    "scripts":{
-        "build": "tsc --module umd ./src/index.ts --outDir ./dist/"
-    }
+  },
+  "scripts": {
+    "build": "tsc --module umd ./src/index.ts --outDir ./dist/"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
 }
