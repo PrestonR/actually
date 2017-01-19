@@ -1,7 +1,7 @@
-`use strict`;
+'use strict';
 
-let actually = require('../dist');
+let actually = require( '../dist' );
 
-let reason = actually.isActually(true);
+let reason = actually.isActually( true );
 
-console.log('How to actually because reasons:', reason);
+console.log( 'How to actually because reasons:', reason );
