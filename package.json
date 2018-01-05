@@ -22,7 +22,7 @@
     "typescript": "^2.1.5"
   },
   "scripts": {
-    "build": "tsc --module umd ./src/index.ts --outDir ./dist/"
+    "build": "tsc --declaration --module umd ./src/index.ts --outDir ./dist/"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
