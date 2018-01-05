@@ -8,6 +8,7 @@
     }
 })(function (require, exports) {
     "use strict";
+    exports.__esModule = true;
     function isActually(isNotActually) {
         return !Boolean(isNotActually == undefined || isNotActually == '' || isNotActually == null);
     }
